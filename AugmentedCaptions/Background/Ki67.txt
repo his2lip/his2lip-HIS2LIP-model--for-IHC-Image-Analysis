@@ -1,0 +1,109 @@
+An IHC stained image of other.
+An immunohistochemically stained image showcasing tissue with undefined characteristics.
+The image presents a tissue sample visualized through IHC staining.
+A histological section stained using IHC, highlighting mixed tissue components.
+An IHC-stained tissue sample displaying varied staining patterns.
+Cells and structures are observed in this IHC-stained histopathology image.
+A high-resolution IHC-stained section highlighting mixed tissue elements.
+This image captures non-specific tissue structures stained using immunohistochemical techniques.
+An IHC-prepared sample showing diverse cellular and extracellular staining patterns.
+The image provides an IHC-based visualization of a tissue section without a clearly defined organ.
+A microscopic view of mixed tissue regions stained using IHC markers.
+
+An IHC image of Other stained using the Ki67 biomarker.
+The image presents tissue stained with the Ki67 biomarker using IHC techniques.
+Ki67-stained structures are visualized in this IHC micrograph.
+An IHC-stained section highlights tissue components marked by Ki67.
+Ki67-positive staining is observed in tissue in this IHC-stained sample.
+The immunohistochemistry image features tissue with Ki67 expression.
+This IHC-stained tissue section reveals structures marked with Ki67.
+An IHC-stained micrograph of tissue exhibiting Ki67 positivity.
+The presence of Ki67-expressing cells is confirmed in tissue through IHC staining.
+The image presents structures stained with the Ki67 biomarker in an IHC tissue section.
+A microscopic view of tissue showing Ki67-positive staining through IHC techniques.
+
+An IHC stained image of background.
+An immunohistochemically stained image displaying a background region with minimal cellular features.
+The image presents a background area within an IHC-stained histological sample.
+A histological section displaying an unstained or minimally stained background region.
+The IHC image shows a tissue background with little to no detectable staining.
+A non-cellular background area is observed in the IHC-stained section.
+The image highlights a region of the slide with background staining, lacking specific cellular features.
+An unstained or weakly stained area of the tissue section is observed in the IHC image.
+The image presents a background region with no discernible cellular components.
+A histological background area is visible, with no significant staining detected.
+The image captures an unstained or weakly stained background region in the histopathological section.
+
+Background tissue with no significant staining is observed, likely indicating minimal or no activity.
+The image presents a tissue section with no significant staining, suggesting minimal biological activity.
+A weakly stained or unstained background region is visible, indicating low tissue activity.
+No detectable staining is observed in the background tissue, suggesting minimal biomarker expression.
+The image shows a histological background area with no visible staining or cellular activity.
+A non-reactive background region is observed in the IHC-stained tissue section.
+The image captures a tissue section with no significant staining, likely representing a non-cellular area.
+A background area with minimal staining is visible, suggesting no biomarker expression.
+The image highlights an IHC-stained section where the background shows no clear immunoreactivity.
+A non-stained or faintly stained tissue region suggests low biological activity in the sample.
+The background tissue exhibits no significant staining, confirming the absence of marker expression.
+
+Ki67-negative background tissue shows no nuclear staining, suggesting an absence of proliferative activity.
+The IHC image reveals a background region with no Ki67 staining, indicating no proliferative activity.
+No nuclear staining is detected in the background tissue, confirming Ki67 negativity.
+A negative Ki67 staining pattern in the background tissue suggests a lack of proliferative cells.
+The image presents a tissue section with no Ki67-positive nuclei, confirming an absence of proliferation.
+Background tissue appears unstained for Ki67, indicating no detectable cell cycle activity.
+The absence of nuclear staining in the background suggests that no proliferative cells are present.
+Ki67 staining in the image is completely negative in the background region, confirming minimal activity.
+A clear lack of Ki67 expression in the background tissue confirms an absence of dividing cells.
+No visible Ki67-positive nuclei are observed in the background tissue, suggesting no active proliferation.
+The background region shows no nuclear Ki67 staining, marking it as a non-proliferative area.
+
+Ki67 staining reveals no significant nuclear positivity in the background tissue, indicating a lack of proliferative activity or cellular turnover in this region.
+The IHC image presents a background region with no Ki67-positive nuclei, confirming minimal proliferative activity.
+No significant nuclear Ki67 staining is observed in the background tissue, indicating a lack of cellular turnover.
+The image highlights a Ki67-negative background, suggesting an absence of actively cycling cells.
+A completely negative Ki67 staining pattern in the background region confirms no proliferative activity.
+The background tissue appears unstained for Ki67, confirming no engagement in the cell cycle.
+No visible Ki67-positive nuclei are present, indicating no active proliferation in this region.
+A negative Ki67 staining reaction in the background confirms minimal biological activity.
+Ki67 staining is absent in the background, confirming a quiescent or non-proliferative tissue state.
+The image shows no detectable Ki67 expression in the background region, suggesting a low metabolic rate.
+A clear lack of nuclear Ki67 staining in the background tissue confirms the absence of dividing cells.
+
+The Immunohistochemistry image shows a strong nuclear staining pattern with a higher concentration of ki67-positive cells scattered throughout, indicating active cell proliferation.
+The IHC image reveals a strong nuclear Ki67 staining pattern, confirming active cell proliferation.
+Ki67-positive cells are observed in high concentration, marking regions of significant proliferative activity.
+A strong immunostaining reaction for Ki67 is visible, with numerous positive nuclei scattered throughout the tissue.
+The image presents intense nuclear Ki67 staining, confirming high cell cycle engagement.
+Ki67 staining highlights actively proliferating cells, showing strong nuclear positivity.
+A high density of Ki67-positive cells indicates widespread proliferation within the tissue.
+The presence of strong Ki67 nuclear staining suggests rapid cellular turnover and division.
+A well-defined Ki67 staining pattern highlights a large number of proliferating cells.
+The image captures scattered Ki67-positive cells, marking active mitotic activity.
+A strong nuclear Ki67 signal in the tissue confirms a high proliferation index.
+
+
+The image shows a positive immunohistochemistry result for ki67, indicating cell proliferation in a tissue sample with necrosis.
+Ki67-positive staining is observed in the tissue sample, confirming active proliferation despite necrosis.
+The IHC image highlights Ki67 expression in proliferating cells within a necrotic tissue environment.
+A positive Ki67 immunostaining reaction is seen in regions of cell proliferation within the necrotic tissue.
+Ki67 staining in the tissue section reveals proliferating cells amidst areas of necrosis.
+A distinct nuclear Ki67 staining pattern confirms active cell division in a necrotic tissue sample.
+Ki67-positive cells are scattered within the necrotic tissue, indicating ongoing proliferative activity.
+The presence of Ki67-positive staining in necrotic regions suggests residual proliferative potential.
+A strong Ki67 immunostaining reaction is visible in viable cells within the necrotic tissue sample.
+Ki67 expression is detected in proliferating cells near necrotic tissue, marking cellular adaptation.
+The image presents Ki67-positive nuclei in a necrotic tissue sample, confirming active cell turnover.
+
+The image shows a background stained with the biomarker ki67, which is a nuclear protein that is expressed in all active phases of the cell cycle (G1, S, G2, and mitosis), but not in resting cells (G0).
+The IHC image highlights a background region stained for Ki67, a marker of actively cycling cells.
+Ki67 staining is present in the background, confirming its role in marking proliferative activity.
+A stained background region is visible, showing Ki67 expression in cell cycle-active areas.
+The image presents Ki67 staining in the background, highlighting nuclear protein involvement in cell division.
+A stained Ki67 background section suggests the presence of actively cycling cells.
+Ki67-positive staining in the background region confirms biomarker expression in proliferative cells.
+The image captures Ki67 staining in the background, marking nuclear protein expression in dividing cells.
+Ki67 expression in the background tissue confirms its role in cell cycle progression.
+The presence of Ki67 staining in the background highlights its expression in all active phases of the cell cycle.
+The image shows Ki67 staining in the background, marking nuclear protein presence in proliferative regions.
+

@@ -1,0 +1,108 @@
+An IHC stained image of Immune cells.
+An immunohistochemically stained image highlighting immune cells.
+The image shows immune cells stained using IHC techniques.
+An IHC micrograph displaying immune cell morphology.
+A histological section stained via IHC to visualize immune cells.
+An IHC-prepared tissue sample featuring immune cell staining.
+Immune cells are visible in this immunohistochemically processed image.
+A microscopic view of immune cells stained using IHC markers.
+An IHC-based staining technique highlights immune cells in the image.
+The image captures immune cells distinguished by IHC staining.
+A high-resolution IHC-stained section showcasing immune cell presence.
+
+An IHC image of Immune cell stained using the CD34 biomarker.
+An immunohistochemistry image displaying immune cells marked by the CD34 biomarker.
+CD34-stained immune cells are visible in this IHC micrograph.
+The image captures immune cells labeled with CD34 using IHC techniques.
+An IHC-stained tissue section highlighting CD34-positive immune cells.
+CD34 expression is evident in immune cells visualized through IHC staining.
+This IHC image reveals immune cells exhibiting CD34 staining.
+An IHC-stained section illustrating immune cells marked by CD34.
+Immune cells are identified in this IHC micrograph based on CD34 biomarker staining.
+The immunohistochemistry image highlights immune cells expressing CD34.
+CD34-positive immune cells are prominently stained in this IHC image.
+
+Immune cells are visible with dark nuclear staining, likely indicating cellular activity within the microenvironment.
+Dark nuclear staining highlights immune cells, suggesting their active role in the microenvironment.
+Immune cells with intense nuclear staining indicate possible cellular activity in the tissue.
+The image displays immune cells with prominent dark nuclei, reflecting their functional activity.
+Strong nuclear staining in immune cells suggests involvement in microenvironmental processes.
+Immune cells with dark-stained nuclei are visible, potentially signifying active immune responses.
+Cellular activity within the microenvironment is suggested by immune cells with intense nuclear staining.
+Immune cells exhibiting dark nuclear staining indicate possible engagement in immune responses.
+A cluster of immune cells with dark nuclei is observed, likely representing active cellular function.
+The presence of dark nuclear staining in immune cells hints at ongoing biological activity.
+Dark-stained nuclei mark immune cells within the microenvironment, suggesting their functional involvement.
+
+CD34-positive cells exhibit cytoplasmic and membranous staining, likely highlighting endothelial or hematopoietic stem cells in the immune tissue.
+CD34-expressing cells display both cytoplasmic and membranous staining, indicating endothelial or hematopoietic stem cell presence.
+Cells positive for CD34 show distinct membranous and cytoplasmic staining, likely marking endothelial or progenitor cells.
+Membranous and cytoplasmic CD34 staining highlights potential endothelial or hematopoietic stem cells in the immune microenvironment.
+CD34 staining identifies cells with both cytoplasmic and membranous signals, suggesting vascular or immune-related function.
+Endothelial or hematopoietic stem cells are marked by strong cytoplasmic and membranous CD34 expression.
+CD34-positive cells exhibit clear staining patterns in the cytoplasm and membrane, indicative of endothelial lineage or progenitor cells.
+Cells with CD34 staining suggest vascular or hematopoietic stem cell involvement through cytoplasmic and membranous expression.
+Membranous and cytoplasmic staining in CD34-positive cells likely reflects their role in vascular or immune regulation.
+CD34-positive cells are characterized by dual cytoplasmic and membranous staining, hinting at their stem or endothelial nature.
+The expression of CD34 in both cytoplasmic and membranous regions indicates the presence of endothelial or progenitor cells in immune tissue.
+
+CD34 staining identifies endothelial cells and likely hematopoietic stem cells with prominent brown cytoplasmic staining, indicating vascular or immune-related activity in the tissue microenvironment.
+CD34 staining highlights endothelial and possible hematopoietic stem cells with strong brown cytoplasmic expression, suggesting immune or vascular activity.
+Endothelial and progenitor cells are marked by CD34 staining, with prominent brown cytoplasmic expression indicating microenvironmental involvement.
+The presence of CD34-stained cells with brown cytoplasmic expression suggests vascular or immune-associated cellular activity.
+CD34-positive cells exhibit strong brown cytoplasmic staining, highlighting their potential role in vascular or immune regulation.
+A distinct brown cytoplasmic stain in CD34-expressing cells marks endothelial and hematopoietic stem cells involved in tissue activity.
+CD34-expressing endothelial and progenitor cells show prominent brown cytoplasmic staining, indicating immune or vascular function.
+The image highlights CD34-positive cells with brown cytoplasmic staining, suggesting an active role in vascular or immune processes.
+CD34 staining strongly marks endothelial and stem-like cells with brown cytoplasmic signals, indicative of their role in tissue dynamics.
+Endothelial and hematopoietic progenitor cells display brown cytoplasmic CD34 staining, hinting at vascular and immune interactions.
+Cells with prominent CD34 expression exhibit brown cytoplasmic staining, identifying them as potential endothelial or immune progenitors.
+
+The immunohistochemistry image shows a cluster of CD34-positive immune cells exhibiting distinct perinuclear staining and granular cytoplasm, characteristic of lymphoid cells such as lymphoblasts and myeloblasts.
+The IHC image presents a cluster of CD34-positive immune cells with perinuclear staining and granular cytoplasm, consistent with lymphoid precursors.
+CD34-positive immune cells in the image show perinuclear staining and cytoplasmic granularity, resembling lymphoblasts and myeloblasts.
+A cluster of immune cells expressing CD34 exhibits perinuclear staining and granular cytoplasm, features characteristic of early lymphoid cells.
+Distinct perinuclear staining and granular cytoplasm in CD34-positive cells suggest their identity as lymphoid progenitors.
+CD34-positive cells display a perinuclear staining pattern and granular cytoplasm, likely marking lymphoid precursor activity.
+The IHC image captures a dense group of CD34-expressing immune cells with distinctive perinuclear staining, suggesting lymphoblast or myeloblast presence.
+Granular cytoplasm and perinuclear staining in CD34-positive immune cells point to their potential role as lymphoid precursors.
+A cluster of CD34-marked immune cells exhibits granular cytoplasmic texture and perinuclear staining, aligning with characteristics of progenitor lymphoid cells.
+CD34-expressing immune cells display distinct cytoplasmic granularity and perinuclear staining, features linked to early lymphoid cell differentiation.
+The IHC-stained image shows CD34-positive immune cells with granular cytoplasm and perinuclear staining, indicative of early-stage lymphoid or myeloid progenitors.
+
+
+The image displays a densely packed, irregularly shaped cluster of cells with varying sizes, characterized by a prominent, round-to-oval nucleus with a central nucleolus and a thin rim of cytoplasm. The cells are stained with the biomarker CD34, which is a marker for hematopoietic stem cells, indicating a high density of these cells.
+The image features a tightly packed cluster of irregularly shaped cells of different sizes, distinguished by round-to-oval nuclei with a central nucleolus and minimal cytoplasm. CD34 staining identifies these cells as hematopoietic stem cells, suggesting a high concentration within the tissue.
+A dense aggregation of irregularly shaped cells with varying sizes is evident, characterized by round-to-oval nuclei with a prominent nucleolus and limited cytoplasm. The cells are stained with CD34, marking them as hematopoietic stem cells.
+Hematopoietic stem cells are visualized in a compact cluster of irregularly shaped cells, exhibiting round-to-oval nuclei with a central nucleolus and minimal cytoplasm, as indicated by CD34 staining.
+The image reveals a densely packed cluster of irregular cells, each displaying a prominent nucleus with a central nucleolus and a thin cytoplasmic rim. CD34 staining marks these cells as hematopoietic stem cells.
+A tightly grouped cluster of cells with diverse sizes and irregular shapes is stained with CD34, highlighting their identity as hematopoietic stem cells. The round-to-oval nuclei with central nucleoli and thin cytoplasm further characterize them.
+CD34 staining highlights a densely packed cluster of hematopoietic stem cells with irregular morphologies, central nucleoli, and a thin rim of cytoplasm, suggesting a high cell density in the sample.
+A compact, irregular cell cluster with round-to-oval nuclei and minimal cytoplasm is identified in the image, with CD34 staining marking the presence of hematopoietic stem cells.
+The image presents a tightly packed cluster of CD34-positive cells, displaying irregular morphology with central nucleoli and a thin rim of cytoplasm, indicating a high concentration of hematopoietic stem cells.
+A high-density population of hematopoietic stem cells is evident, with round-to-oval nuclei, minimal cytoplasm, and CD34 expression marking their presence.
+The tissue section exhibits a densely packed cluster of CD34-positive hematopoietic stem cells with irregularly shaped nuclei and minimal cytoplasm, suggesting a region of high stem cell concentration.
+
+The image shows a cluster of cells stained with the biomarker CD34, which is a marker for hematopoietic progenitor cells, indicating the presence of these cells in the tissue sample.
+A cluster of CD34-stained cells is visible, identifying them as hematopoietic progenitor cells within the tissue sample.
+The image reveals a distinct cluster of cells expressing CD34, indicating hematopoietic progenitor cell presence in the tissue.
+CD34 staining marks a cell cluster, signifying hematopoietic progenitor cell localization within the tissue sample.
+Hematopoietic progenitor cells are identified by CD34 staining in the observed cellular cluster.
+The presence of hematopoietic progenitor cells is suggested by the CD34-stained cluster within the tissue section.
+A dense grouping of cells shows positive CD34 staining, marking them as hematopoietic progenitors within the tissue.
+The tissue sample contains a prominent cluster of CD34-positive hematopoietic progenitor cells.
+The observed cell cluster exhibits CD34 expression, identifying it as a region of hematopoietic progenitor activity.
+Hematopoietic progenitor cells are highlighted in the image by CD34 staining, confirming their presence in the sample.
+A concentrated cluster of cells stained for CD34 suggests a population of hematopoietic progenitor cells in the tissue.
+
+The image displays a densely packed, irregularly shaped cluster of cells with varying sizes with one brown area likely cytoplasmic staining, CD34 is usually predominantly membranous staining, and marks endothelial or hematopoietic stem cells in the immune tissue.
+The image features a tightly packed, irregular cluster of cells of different sizes, with one brown-stained region likely representing cytoplasmic staining. CD34 staining, typically membranous, marks endothelial or hematopoietic stem cells in the immune tissue.
+A dense aggregation of irregularly shaped cells with diverse sizes is observed, with one area showing brown cytoplasmic staining. CD34, primarily a membranous marker, highlights endothelial or hematopoietic stem cells.
+CD34 staining identifies endothelial or hematopoietic stem cells in a tightly packed, irregularly shaped cell cluster, with one distinct brown area likely indicating cytoplasmic staining.
+A dense and irregularly shaped cell cluster with one distinct brown-stained region is present, suggesting cytoplasmic staining. CD34, typically membranous, marks endothelial or hematopoietic stem cells.
+The tissue sample contains a compact cell cluster with irregular shapes and varying sizes, with one brown area suggesting cytoplasmic staining. CD34 expression, primarily membranous, highlights endothelial or hematopoietic stem cells.
+A densely arranged cluster of cells with varying sizes and one brown-stained area is visible, likely representing cytoplasmic staining, while CD34 marks endothelial or hematopoietic stem cells.
+Irregularly shaped cells with one brown-stained region, likely cytoplasmic staining, are clustered densely. CD34, usually membranous, highlights endothelial or hematopoietic stem cells in the immune tissue.
+The image presents a tightly packed cell cluster, with one region of brown cytoplasmic staining. CD34, a predominantly membranous marker, identifies endothelial or hematopoietic stem cells.
+A group of irregularly shaped cells with varying sizes is densely packed, showing a single brown-stained region, likely cytoplasmic. CD34, mainly membranous, marks endothelial or hematopoietic stem cells.
+A cluster of CD34-positive cells is observed, with one brown-stained area suggesting cytoplasmic staining. CD34, known for its membranous expression, marks endothelial or hematopoietic stem cells in immune tissue.

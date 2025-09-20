@@ -1,0 +1,107 @@
+An IHC stained image of Stroma
+An IHC-stained representation of stromal tissue.  
+A stromal image stained using IHC techniques.  
+Immunohistochemically stained image showcasing stroma.  
+A visual of stroma stained via IHC.  
+Stroma captured with IHC staining.  
+An IHC-stained depiction of stromal tissue.  
+Stroma highlighted through IHC staining methods.  
+A stained image of stroma, prepared using IHC.  
+Immunohistochemistry-stained stroma visualization.  
+An image of stroma, enhanced with IHC staining.  
+
+An IHC image of Stroma stained using the CDK4 biomarker.
+An IHC-stained image of stroma using the CDK4 biomarker.  
+A visualization of stroma stained with the CDK4 biomarker in IHC.  
+An IHC image showcasing stroma marked by the CDK4 biomarker.  
+Stroma highlighted in an IHC image with CDK4 staining.  
+An IHC depiction of stroma stained using the CDK4 marker.  
+A stroma image stained with CDK4, captured via IHC.  
+An immunohistochemistry image of stroma stained with the CDK4 biomarker.  
+Stroma stained with the CDK4 biomarker, shown in an IHC image.  
+An IHC visualization of stroma, enhanced with CDK4 staining.  
+A detailed IHC image of stroma stained using the CDK4 biomarker.  
+
+A histological image showing stromal tissue.
+A histological representation of stromal tissue.  
+An image highlighting stromal tissue through histology.  
+A visualization of stromal tissue in a histological sample.  
+Stromal tissue depicted in a histological image.  
+A histological sample showcasing stromal tissue.  
+A detailed histological view of stromal tissue.  
+Stromal tissue captured in a histological image.  
+A histological depiction highlighting stromal tissue.  
+An image of stromal tissue presented through histology.  
+A histological visualization of stromal tissue.  
+
+A detailed view of stromal cells in a histopathological section.
+A close-up of stromal cells in a histopathological section.  
+A detailed histopathological image of stromal cells.  
+Stromal cells captured in a histopathological section.  
+A magnified view of stromal cells in histopathology.  
+An in-depth look at stromal cells within a histopathological section.  
+Stromal cells highlighted in a detailed histopathological image.  
+A histopathological section showcasing stromal cells.  
+A precise view of stromal cells in a histopathological sample.  
+An enlarged image of stromal cells in a histopathological section.  
+A focused histopathological visualization of stromal cells.  
+
+An H&E-stained histological section highlighting stromal cells with sparse nuclei and a fibrous extracellular matrix.
+A histological section stained with H&E showcasing stromal cells, sparse nuclei, and a fibrous extracellular matrix.  
+An H&E-stained section highlighting stromal cells with minimal nuclei and a fibrous matrix.  
+Stromal cells with sparse nuclei and fibrous extracellular matrix visualized in an H&E-stained section.  
+A histological view stained with H&E featuring stromal cells and a fibrous extracellular matrix.  
+An H&E-stained histological image showing stromal cells with scattered nuclei and a fibrous matrix.  
+Stromal cells highlighted in an H&E-stained section, emphasizing sparse nuclei and fibrous extracellular matrix.  
+A detailed H&E-stained section focusing on stromal cells with a fibrous extracellular matrix and sparse nuclei.  
+A histological depiction stained with H&E, showcasing stromal cells and their fibrous matrix.  
+An H&E-stained section emphasizing stromal cells with few nuclei and a prominent fibrous extracellular matrix.  
+A histological sample stained with H&E, highlighting stromal cells with sparse nuclei and a dense fibrous matrix.  
+
+The image shows strong cytoplasmic and nuclear staining of CDK4 in spindle cells in the stroma, indicating the presence of activated CDK4.
+The image highlights strong cytoplasmic and nuclear CDK4 staining in spindle cells within the stroma, signifying activated CDK4.  
+Spindle cells in the stroma show prominent cytoplasmic and nuclear staining of CDK4, suggesting activation.  
+Strong cytoplasmic and nuclear staining of CDK4 in stromal spindle cells indicates the activation of CDK4.  
+Activated CDK4 is evident through intense cytoplasmic and nuclear staining in stromal spindle cells.  
+The image reveals strong CDK4 staining in both the cytoplasm and nuclei of spindle cells in the stroma, marking activation.  
+Spindle cells in the stromal region exhibit strong CDK4 staining in their cytoplasm and nuclei, confirming activation.  
+The cytoplasmic and nuclear staining of CDK4 in stromal spindle cells is intense, indicating its active form.  
+Evidence of activated CDK4 is observed through strong staining in the cytoplasm and nuclei of stromal spindle cells.  
+Strong staining of CDK4 in the cytoplasm and nuclei of stromal spindle cells suggests its activation.  
+The image displays intense cytoplasmic and nuclear staining of CDK4 in stromal spindle cells, indicative of activation.  
+
+The Immunohistochemistry image of the class Stroma stained with the biomarker CDK4 shows a negative expression of the protein, indicating that the cells in the stroma do not express CDK4.
+The IHC image of stromal tissue stained with the CDK4 biomarker reveals negative protein expression, suggesting the absence of CDK4 in the stroma.  
+Negative CDK4 expression is evident in the IHC image of stromal tissue, indicating that CDK4 is not expressed in stromal cells.  
+The stroma shows no CDK4 expression in the IHC image, confirming negative protein staining.  
+An IHC-stained image of stroma with the CDK4 biomarker reveals no detectable protein expression.  
+The Immunohistochemistry image shows that stromal cells lack CDK4 expression, indicated by negative staining.  
+In the IHC image, the stromal tissue stained with CDK4 displays negative expression of the protein.  
+CDK4 is not expressed in stromal cells, as shown by the negative staining in the IHC image.  
+The IHC-stained stroma image indicates the absence of CDK4 expression in the stromal cells.  
+A negative expression of CDK4 is observed in the stroma, as depicted in the IHC image.  
+The Immunohistochemistry image reveals that the stromal cells do not express CDK4, shown by the lack of staining.  
+
+The image shows a low magnification of a tissue sample stained with CDK4, a protein that is typically expressed in the nuclei of cells, but in this case, it appears to be expressed in the cytoplasm of the cells, indicating potential aberrant expression patterns.
+A low magnification image of a tissue sample stained with CDK4 shows cytoplasmic rather than nuclear expression, suggesting possible aberrant patterns.  
+The image depicts a tissue sample stained with CDK4 at low magnification, revealing cytoplasmic expression instead of the usual nuclear localization.  
+CDK4, typically expressed in cell nuclei, appears in the cytoplasm in this low magnification tissue image, indicating an unusual expression pattern.  
+A low-power view of CDK4 staining reveals cytoplasmic expression, deviating from its typical nuclear localization.  
+The tissue sample stained with CDK4 shows cytoplasmic expression in cells under low magnification, suggesting aberrant expression.  
+Low magnification reveals CDK4 staining in the cytoplasm rather than the nuclei of cells, indicating a potential abnormal expression pattern.  
+CDK4, normally nuclear, is expressed in the cytoplasm in this low magnification tissue sample, hinting at aberrant localization.  
+The image highlights cytoplasmic expression of CDK4 in a tissue sample at low magnification, contrasting its usual nuclear localization.  
+Aberrant expression of CDK4 is observed in the cytoplasm of cells within this low magnification tissue image.  
+A tissue sample stained with CDK4 shows unusual cytoplasmic expression under low magnification, diverging from its typical nuclear presence.  
+
+The image shows a positive staining of CDK4 in the stroma, indicating the presence of CDK4 protein in the stromal cells.
+The image reveals positive CDK4 staining in the stroma, confirming the presence of the protein in stromal cells.  
+CDK4 protein is detected in stromal cells through the positive staining shown in the image.  
+Positive staining of CDK4 in the stroma highlights the presence of the protein in stromal cells.  
+The stroma shows clear CDK4 positivity, indicating its presence in the stromal cells.  
+Stromal cells exhibit CDK4 protein presence, demonstrated by the positive staining in the image.  
+Positive CDK4 staining is evident in the stroma, confirming the protein's expression in stromal cells.  
+The image depicts stromal cells with positive staining, indicating the presence of CDK4 protein.  
+CDK4 is present in the stroma, as highlighted by the positive staining in the image.  
+Positive CDK4 expression is observed in stromal cells within the stroma.  
+The stromal region shows positive staining for CDK4, confirming the protein's presence in the cells.  

@@ -1,0 +1,109 @@
+An IHC stained image of background.
+An immunohistochemically stained image showing a background region in the tissue sample.
+The image presents an IHC-stained section with a uniform background.
+A histological slide stained using IHC, highlighting a background area.
+An IHC-stained tissue section displaying a non-specific background region.
+A high-resolution IHC-stained section with minimal cellular features in the background.
+This image captures a background area within the immunohistochemical stain.
+An IHC-prepared sample showing a background section with no prominent cellular structures.
+The image provides an IHC-based visualization of a background region in the slide.
+A microscopic view showing the background region in the stained histological sample.
+The stained tissue section includes a featureless background area without defined cellular morphology.
+
+An IHC image of Background stained using the CD3 biomarker.
+The image presents a background region in an IHC-stained slide using the CD3 biomarker.
+An IHC-stained background area is observed with CD3 immunostaining.
+A histopathological section stained with CD3, highlighting a background region with no distinct cellular features.
+The image captures an IHC-stained background area where CD3 expression is absent or minimal.
+A non-specific background region in a CD3-stained immunohistochemistry slide is visible.
+CD3 staining in the background region appears weak or absent, indicating no immune cell presence.
+An IHC slide stained for CD3 displays a background region with minimal staining activity.
+The background area of the CD3-stained tissue section lacks prominent cellular immunostaining.
+The image shows a histopathological section with a CD3-stained background area.
+A stained histological slide reveals a non-cellular background region with minimal CD3 expression.
+
+A background region in the stained histological slide.
+A background region is visible in the stained histological slide, showing no distinct cellular structures.
+The image highlights a background area within the stained histological slide.
+A microscopic view of the background region in the stained histopathological sample.
+A featureless background section is observed in the stained histological slide.
+The image presents a histological slide with a background region lacking cellular elements.
+A stained tissue section displaying a uniform background area.
+The background region in the stained slide appears without any identifiable cellular components.
+A high-resolution image showing the background region of the stained histopathological slide.
+A histopathological section highlighting a non-specific background area.
+The image presents a clear, unstained background section in the histological slide.
+
+A background area with no discernible cellular structures in the stained histopathological section.
+The image shows a background area with no visible cellular structures in the histopathological section.
+A non-cellular background region is observed in the stained histopathology slide.
+The image captures a background area lacking identifiable cellular features.
+An unstained background area is present in the histopathological section.
+A clear background region is visible with no distinct tissue or cellular structures.
+A microscopic view of the histopathological section shows a featureless background.
+The image presents an unstained or non-specific background in the tissue sample.
+The histopathological section reveals a background area with no apparent cellular staining.
+A featureless background is observed in the stained histopathological sample.
+A high-resolution image highlighting a non-specific background region in the tissue section.
+
+
+A histopathological image showing a uniform background without any distinguishable immune cells or tissue structures, indicative of an unstained or non-cellular region.
+The image presents a uniform background without any visible immune cells or tissue structures.
+A non-cellular background region is observed in the stained histopathological image.
+The image highlights a histopathological section with an unstained background region.
+A featureless background area is visible in the tissue section, lacking immune cell staining.
+The histopathological image shows a background region without distinct tissue elements.
+A uniform background without identifiable immune cells is observed in the stained slide.
+The image captures a stained histological section with a non-specific, unstained background.
+A clear background section with no distinguishable tissue components is visible in the histopathological sample.
+The histopathological image presents a region with no visible staining of immune cells or structures.
+A featureless, unstained region is observed in the histopathology section, indicating a non-cellular background.
+
+The Immunohistochemistry image of the background stained with the biomarker CD3 shows a negative result, indicating the absence of CD3-positive cells.
+The IHC image reveals a negative staining result for CD3, confirming the absence of CD3-positive cells.
+No CD3-positive staining is observed in the background region, indicating a lack of T-cell presence.
+A completely negative CD3 immunostaining reaction is visible, marking the absence of CD3-expressing cells.
+The background area of the IHC-stained slide shows no CD3-positive cells, confirming a negative result.
+CD3 staining in the background region appears absent, suggesting no detectable T-cell activity.
+The image presents a stained tissue background with no visible CD3-positive immunoreactivity.
+A negative CD3 staining pattern confirms the absence of T-lymphocytes in the background region.
+The immunohistochemistry image lacks CD3-positive cells, indicating no T-cell presence.
+The image shows no evidence of CD3 expression in the stained background section.
+A negative CD3 immunostaining reaction in the background confirms no detectable T-cell activity.
+
+The Immunohistochemistry image of the class Background stained with the biomarker CD3 shows a negative result, indicating no expression of the CD3 biomarker.
+The IHC image presents a negative staining result for CD3, indicating no biomarker expression.
+No CD3 staining is detected in the background, confirming the absence of T-cell markers.
+A completely negative CD3 staining reaction is observed, suggesting no biomarker presence.
+The background area of the slide shows no CD3 expression, confirming a lack of immune cells.
+CD3 immunostaining in the background region is absent, suggesting no active immune response.
+The image highlights a negative CD3 staining pattern, marking no detectable T-cell activity.
+The tissue section shows no visible CD3-positive staining, confirming a negative biomarker reaction.
+No CD3 immunoreactivity is observed in the background, confirming the absence of the marker.
+The image presents a histological section with no CD3 staining, indicating no T-cell involvement.
+A negative CD3 result in the background confirms no expression of the biomarker in the tissue sample.
+
+The image shows a uniform negative staining pattern for the biomarker CD3, indicating the absence of CD3-positive cells.
+The IHC image presents a uniform negative staining pattern for CD3, confirming no immune cell presence.
+CD3 staining is completely absent, indicating a lack of T-lymphocytes in the sample.
+A uniform absence of CD3 staining in the image confirms no detectable immune cell activity.
+The tissue sample exhibits a negative CD3 staining pattern, suggesting no T-cell infiltration.
+CD3-negative staining in the sample confirms the absence of immune biomarker expression.
+A clear uniform negative staining pattern indicates no detectable CD3-positive cells.
+The image lacks CD3-positive immunoreactivity, marking a complete absence of T-cells.
+A homogenous negative CD3 staining result confirms no biomarker presence in the tissue.
+No CD3-positive cells are observed in the image, confirming a negative immunohistochemistry reaction.
+A uniform negative CD3 immunostaining reaction in the tissue confirms no T-cell marker expression.
+
+
+The image shows a background stained with the biomarker CD3, which is a marker for T-cells, but the image is too blurry to provide further details.
+The IHC image presents a background stained for CD3, but blurriness limits detailed analysis.
+CD3 staining is present in the background, but the image is unclear for further evaluation.
+A blurry IHC-stained image shows CD3 staining, though the resolution is too low for interpretation.
+The presence of CD3 staining is uncertain due to the blurry nature of the image.
+A low-resolution image stained for CD3 is observed, making it difficult to confirm immune cell presence.
+Blurry staining makes it challenging to determine the extent of CD3-positive cell distribution.
+The image appears too blurred to assess CD3 staining patterns accurately.
+A faintly stained CD3 background is visible, but the image lacks clarity for precise evaluation.
+The blurry quality of the image prevents clear identification of CD3-positive cells.
+Due to blurriness, the CD3 staining pattern in the image is difficult to interpret.
